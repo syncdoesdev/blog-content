@@ -1,8 +1,8 @@
 {
   "posts": [{
-      "id": "welcome-to-new-blog.md"
+      "id": "welcome-to-new-blog.md",
       "name": "Welcome to the new blog.",
       "description": "Hey there! Welcome to the new blog.",
-      "postedAt": 0,
+      "postedAt": 0
   }]
 }
