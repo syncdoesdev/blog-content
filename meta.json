@@ -1,8 +1,8 @@
 {
   "posts": [{
-      "name": "Welcome to the new blog.",
-      "description": "Hey there! Welcome to the new blog.",
-      "slug": "welcome-to-new-blog",
-      "postedAt": 0
+      "name": "Welcome to the revamped website",
+      "description": "",
+      "slug": "new-site",
+      "postedAt": 1673497652
   }]
 }
